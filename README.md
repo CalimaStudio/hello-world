@@ -2,3 +2,5 @@
 Learning Git with hello word
 
 I'm 40 developer. Bring the new experience to you.
+
+Version to 2.0
